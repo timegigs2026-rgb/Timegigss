@@ -1,0 +1,6 @@
+{
+  "name": "World Map Geolocation",
+  "description": "Full-screen interactive OpenStreetMap application featuring live user location tracking, accuracy circle, address reverse geocoding, tile style switcher, and zero API cost.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
